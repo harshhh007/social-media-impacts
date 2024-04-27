@@ -16,14 +16,11 @@ Our analysis involves both quantitative and qualitative approaches. We examine s
 How to Use
 To explore the project's findings and contribute to its development, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using the following command:
-bash
+Clone the Repository: Clone this repository to your local machine 
 Copy code
-git clone https://github.com/your-username/impact-of-social-media-on-mental-health.git
 Navigate to the Repository: Change directory to the project folder:
 bash
-Copy code
-cd impact-of-social-media-on-mental-health
+
 Explore the Data and Analysis: Review the research findings, data analysis, and visualizations in the repository. Feel free to contribute by adding new insights, conducting further analysis, or suggesting improvements.
 Contribute: If you have relevant research, data, or insights to contribute, please fork the repository, make your changes, and submit a pull request. All contributions are welcome!
 Contributing
